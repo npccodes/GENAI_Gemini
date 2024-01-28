@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_google_genai
+langchainhub
+bs4
+lancedb
+python_dotenv
+pypdf
+pandas
