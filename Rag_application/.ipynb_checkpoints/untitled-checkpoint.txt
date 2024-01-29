@@ -1,0 +1,5 @@
+Test Queries:
+
+1) What are Complex Numbers ?
+2) How to Sum and Product of Complex Numbers ?
+3) Prove the Cauchy Reimann Equations.

@@ -2,7 +2,7 @@ langchain
 langchain_community
 langchain_google_genai
 langchainhub
-bs4
+bs4pip 
 astrapy
 python_dotenv
 pypdf
